@@ -6,7 +6,16 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/Scenes/SampleScene.unity
+    path: Assets/RVH/Scenes/0 - Lobby.unity
+    guid: 6ee45ba997d33ed43aaa32e9676a148d
+  - enabled: 1
+    path: Assets/RVH/Scenes/1 - Cinematic.unity
+    guid: f50d429150da8c248b96495df17d70cc
+  - enabled: 1
+    path: Assets/RVH/Scenes/2 - RollerCoaster.unity
+    guid: 187e44b4e22f5bc4bb9f6d0f7e214f83
+  - enabled: 1
+    path: Assets/RVH/Scenes/SampleScene.unity
     guid: 99c9720ab356a0642a771bea13969a05
   m_configObjects:
     com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 052faaac586de48259a63d0c4782560b, type: 3}
